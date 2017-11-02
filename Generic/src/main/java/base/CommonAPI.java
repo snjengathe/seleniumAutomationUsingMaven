@@ -19,7 +19,7 @@ public class CommonAPI {
         driver = new ChromeDriver();
         driver.get("https://www.amazon.com/");
         driver.manage().window().maximize();
-        driver.manage().deleteAllCookies();
+
     }
 
     @After
