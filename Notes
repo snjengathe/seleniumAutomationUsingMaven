@@ -1,0 +1,21 @@
+Step-1 Create a New Project Using Maven.
+Assign user generated GroupId, ArtifactId for the project.
+Then give any Project Name.
+
+Step-2: Delete the "test" folder from "src".
+
+Step-3 We have to add dependancies to pom(root), all dependencies are depends on Project requirements, for this project we are using Maven.
+Dependancies: Selenium-server: https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server
+              Selenium-Java:   https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+              Junit:           https://mvnrepository.com/artifact/junit/junit
+              TestNG:          https://mvnrepository.com/artifact/org.testng/testng
+              Apache POI:      https://mvnrepository.com/artifact/org.apache.poi/poi
+Step-4: Now we have to create build for our peoject.
+Step-5: We will create Generic Pom, which will contain all the common things like driver, utility, methods etc.
+         Goto New==> Method==>Maven==>Artifact name: Generic==>Module name:Generic==> finish.
+
+
+
+
+
+
