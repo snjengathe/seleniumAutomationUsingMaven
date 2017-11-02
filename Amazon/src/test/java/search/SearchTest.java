@@ -9,12 +9,12 @@ public class SearchTest extends CommonAPI{
 
 
 
-    @Test
-    public void testac() throws InterruptedException {
-        clickByCss(".nav-line-2");
-        Thread.sleep(2500);
-
-    }
+//    @Test
+//    public void testac() throws InterruptedException {
+//        clickByCss(".nav-line-2");
+//        Thread.sleep(2500);
+//
+//    }
 
 
     @Test
