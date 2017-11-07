@@ -2,47 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b947c72e-27fa-4b6c-8c0b-49fb61ee0bff" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-search.SearchTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/bullet_point.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/collapseall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/failed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/navigator-bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/search.SearchTest/Command line test.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/search.SearchTest/classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/search.SearchTest/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/search.SearchTest/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/search.SearchTest/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/search.SearchTest/methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/search.SearchTest/methods-not-run.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/search.SearchTest/methods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/search.SearchTest/reporter-output.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/search.SearchTest/testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/search.SearchTest/toc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/passed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/search.SearchTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/search.SearchTest/Command line test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/search.SearchTest/Command line test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/skipped.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/search/SearchTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/Amazon.iml" afterPath="$PROJECT_DIR$/Amazon/Amazon.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/Generic.iml" afterPath="$PROJECT_DIR$/Generic/Generic.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Notes" afterPath="$PROJECT_DIR$/Notes" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -65,8 +27,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="38" column="24" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+            <state relative-caret-position="301">
+              <caret line="54" column="31" lean-forward="false" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -85,94 +47,19 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <file leaf-file-name="Notes" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Notes">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1510073725000" expanded="true" signature="73069:73111" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73069:73129" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73069:73142" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73069:73157" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73192:75431" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73205:75416" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73259:73554" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73278:73539" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73341:73519" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73381:73485" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73402:73463" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73604:73931" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73623:73916" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73718:73896" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73758:73862" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73779:73840" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="73982:74247" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="74001:74232" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="74034:74212" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="74074:74178" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="74095:74156" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="74290:74596" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="74309:74581" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="74383:74561" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="74423:74527" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="74444:74505" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="74647:75017" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="74666:75002" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="74765:74982" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="74805:74948" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="74826:74926" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="75069:75402" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="75088:75387" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="75189:75367" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="75229:75333" ph="..." />
-                <marker date="1510073725000" expanded="true" signature="75250:75311" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="seleniumAutomationUsingMaven.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/seleniumAutomationUsingMaven.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="330">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="73" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#822#823#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
-                <element signature="e#991#992#0" expanded="true" />
-                <element signature="e#1052#1053#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/search/SearchTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -197,6 +84,17 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+          <option name="moduleName" value="seleniumAutomationUsingMaven" />
+          <option name="title" value="seleniumAutomationUsingMaven (Bundled Groovy 2.4.6)" />
+        </Entry>
+      </list>
     </option>
   </component>
   <component name="IdeDocumentHistory">
@@ -276,37 +174,20 @@
             <path>
               <item name="seleniumAutomationUsingMaven" type="b2602c69:ProjectViewProjectNode" />
               <item name="seleniumAutomationUsingMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumAutomationUsingMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumAutomationUsingMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumAutomationUsingMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumAutomationUsingMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumAutomationUsingMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumAutomationUsingMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="seleniumAutomationUsingMaven" type="b2602c69:ProjectViewProjectNode" />
               <item name="seleniumAutomationUsingMaven" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumAutomationUsingMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumAutomationUsingMaven" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="seleniumAutomationUsingMaven" type="b2602c69:ProjectViewProjectNode" />
@@ -327,7 +208,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -658,7 +539,21 @@
       <option name="project" value="LOCAL" />
       <updated>1510013315966</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="changes">
+      <created>1510073839323</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1510073839323</updated>
+    </task>
+    <task id="LOCAL-00012" summary="changes">
+      <created>1510091593159</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1510091593159</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -702,10 +597,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956153" sideWeight="0.5143061" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956153" sideWeight="0.5200286" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17739628" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956153" sideWeight="0.48569384" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27722773" sideWeight="0.48855507" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956153" sideWeight="0.47997138" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27722773" sideWeight="0.48569384" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -812,13 +707,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.5.3/selenium-chrome-driver-3.5.3.jar!/org/openqa/selenium/chrome/ChromeDriverService.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1395">
-          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1178,59 +1066,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510073725000" expanded="true" signature="73069:73111" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73069:73129" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73069:73142" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73069:73157" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73192:75431" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73205:75416" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73259:73554" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73278:73539" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73341:73519" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73381:73485" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73402:73463" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73604:73931" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73623:73916" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73718:73896" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73758:73862" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73779:73840" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="73982:74247" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="74001:74232" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="74034:74212" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="74074:74178" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="74095:74156" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="74290:74596" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="74309:74581" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="74383:74561" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="74423:74527" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="74444:74505" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="74647:75017" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="74666:75002" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="74765:74982" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="74805:74948" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="74826:74926" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="75069:75402" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="75088:75387" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="75189:75367" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="75229:75333" ph="..." />
-            <marker date="1510073725000" expanded="true" signature="75250:75311" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seleniumAutomationUsingMaven.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/search/SearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -1238,14 +1073,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1257,18 +1084,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seleniumAutomationUsingMaven.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Notes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="38" column="24" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        <state relative-caret-position="301">
+          <caret line="54" column="31" lean-forward="false" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1330,7 +1189,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1338,7 +1196,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: cglib:cglib-nodep:3.2.4</last-edited>
+          <last-edited>Maven: com.google.code.gson:gson:2.8.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
