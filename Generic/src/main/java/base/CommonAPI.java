@@ -13,6 +13,7 @@ public class CommonAPI {
 
     public static WebDriver driver;
 
+
     @Before
     public void setup() {
         System.setProperty("webdriver.chrome.driver", "/Users/shashankjengathe/IdeaProjects/seleniumAutomationUsingMaven/Generic/drivers/chromedriver");
@@ -55,6 +56,7 @@ public class CommonAPI {
         Select dd_element= new Select(driver.findElement(By.name(locator)));
         dd_element.selectByVisibleText(dd_value);
     }
+
 
 
 }
